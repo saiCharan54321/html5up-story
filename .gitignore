@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-.html
-.txt
+*.html/
+*.txt/
 =======
 index.html
 LICENSE.txt
